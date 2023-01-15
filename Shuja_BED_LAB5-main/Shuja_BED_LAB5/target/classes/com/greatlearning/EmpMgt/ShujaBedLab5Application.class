@@ -1,0 +1,8 @@
+Êþº¾   4   0com/greatlearning/EmpMgt/ShujaBedLab5Application  java/lang/Object <init> ()V Code
+  	   LineNumberTable LocalVariableTable this 2Lcom/greatlearning/EmpMgt/ShujaBedLab5Application; main ([Ljava/lang/String;)V
+    *org/springframework/boot/SpringApplication   run b(Ljava/lang/Class;[Ljava/lang/String;)Lorg/springframework/context/ConfigurableApplicationContext; args [Ljava/lang/String; MethodParameters 
+SourceFile ShujaBedLab5Application.java RuntimeVisibleAnnotations >Lorg/springframework/boot/autoconfigure/SpringBootApplication; !               /     *· ±    
+                    	       6     *¸ W±    
+   
+    
+                                   
